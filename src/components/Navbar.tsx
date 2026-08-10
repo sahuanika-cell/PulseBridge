@@ -22,10 +22,8 @@ export default function Navbar() {
           Dashboard
         </Link>
 
-        <Link href="/support">
-          Support
-        </Link>
-
+        
+    
         <Link href="/community">
           Community
         </Link>
